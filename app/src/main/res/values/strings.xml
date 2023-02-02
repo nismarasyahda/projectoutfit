@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ProjectOutfit</string>
+    <string name="content_text">Inspo Outfit Nonton Ke Bioskop</string>
+    <string name="content_specs_display">HnM</string>
+    <string name="content_specs_size">
+        Tinggi // Lebar Dada // Panjang Lengan\n
+        S : 63 // 48 // 70\n
+        M : 66 // 52 // 74\n
+        L : 68 // 56 // 78\n
+        XL : 70 // 60 // 82\n
+        XXL : 71 // 62 // 83
+    </string>
+    <string name="content_specs_battery">
+        -Bahan Rajut\n
+        -Bordir\n
+        -Casual Style\n
+        -Regular Fit
+    </string>
+    <string name="content_specs_tutorial">
+        -Cuci dengan mesin menggunakan air dingin\n
+        -Jangan cuci kering\n
+        -Jangan diperas\n
+        -Jemur digantung dan hindari\n
+        sinar matahari langsung\n
+        -Mesin pengering suhu rendah\n
+        -Setrika suhu rendah
+    </string>
+    <string name="stock">28RB+ terjual</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Merk</string>
+    <string name="size">Size Chart</string>
+    <string name="battery">Deskripsi </string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">ar store</string>
+    <string name="buy">Beli Dengan Voucher</string>
+    <string name="dummy_value">Outfit Ideas</string>
+    <string name="dummy_photos">3 photos</string>
+    <string name="tutorial">Petunjuk Pemakaian</string>
+
+</resources>
